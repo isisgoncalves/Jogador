@@ -7,7 +7,7 @@
 ### 📌 Entrada
 </br>  
 
-- 
+- O programa deve ler as informações do jogador nessa ordem:
 #
 ### 📌 Saída
 </br>
