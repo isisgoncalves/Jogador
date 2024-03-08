@@ -8,6 +8,11 @@
 </br>  
 
 - O programa deve ler as informações do jogador nessa ordem:
+
+  - nome: string
+  - nacionalidade: string
+  - idade: inteiro
+  - posição: strig
 #
 ### 📌 Saída
 </br>
